@@ -1,0 +1,34 @@
+_repo: The-Book-of-Mormon--13-An-Account-Written-by-the-Hand-of-Mormon-Upon-Plates-Taken-from-the-Plate__17
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Church of Jesus Christ of Latter-day Saints
+    gutenberg_agent_id: '11'
+    url: http://www.gutenberg.org/2009/agents/11
+  - agent_name: Smith, Joseph, Jr.
+    alias: Smith, Joseph
+    birthdate: 1805
+    deathdate: 1844
+    gutenberg_agent_id: '12'
+    url: http://www.gutenberg.org/2009/agents/12
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Smith%2C_Jr.
+description: ''
+gutenberg_bookshelf:
+- Christianity
+- Latter Day Saints
+gutenberg_issued: '2008-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Mormon Church -- Sacred books'
+- !lcsh 'Church of Jesus Christ of Latter-day Saints -- Sacred books'
+- GITenberg
+title: "The Book of Mormon\r\nAn Account Written by the Hand of Mormon Upon Plates\
+  \ Taken from the Plates of Nephi"
+url: http://www.gutenberg.org/ebooks/17
