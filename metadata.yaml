@@ -1,5 +1,8 @@
 _repo: The-Book-of-Mormon--13-An-Account-Written-by-the-Hand-of-Mormon-Upon-Plates-Taken-from-the-Plate__17
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Church of Jesus Christ of Latter-day Saints
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/12
     wikipedia: http://en.wikipedia.org/wiki/Joseph_Smith%2C_Jr.
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17#The-Book-of-Mormon--13-An-Account-Written-by-the-Hand-of-Mormon-Upon-Plates-Taken-from-the-Plate_
 gutenberg_bookshelf:
 - Christianity
 - Latter Day Saints
